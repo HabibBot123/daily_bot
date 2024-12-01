@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@daily-co/realtime-ai-daily": "^0.2.1"
+  }
+}
